@@ -2,6 +2,7 @@
 
 ![PaintMixer UI](images/1.jpeg "PaintMixer UI")
 
+Project page: https://gec-engineering.tech/application-programming-python/
 Demo video: https://youtu.be/ryIYmNxW3IQ
 
 ## Repository Description (About)

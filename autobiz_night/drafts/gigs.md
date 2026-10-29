@@ -6,13 +6,13 @@
 - Строка про AI (обязательно, в конце каждого описания): *"I use AI-assisted tooling to work faster; every deliverable is personally reviewed and tested by me before delivery. If your project prohibits AI tools, please tell me before ordering."*
 - Никаких контактов, ссылок на внешние мессенджеры и оплаты вне Fiverr.
 - [ПОРТФОЛИО ОЛЕГА] — вставить реальные проекты/опыт. Ничего не выдумывать.
-- Названия: Fiverr сам добавляет «I will» (лимит 80 символов — ДОПУЩЕНИЕ, проверить в редакторе гига). Длина указана в скобках.
+- Названия: Fiverr сам добавляет «I will» (лимит 80 символов — ДОПУЩЕНИЕ, проверить в редакторе гига). Длина в скобках — вместе с «I will».
 
 ---
 
 ## GIG 1 — Google Sheets / Excel
 
-**Title:** I will build google sheets and excel formulas, apps script automation and reports  (≈78)
+**Title:** I will build google sheets and excel formulas, apps script automation, reports  (80 с «I will»)
 *Запасной вариант:* I will fix google sheets or excel formulas and automate them with apps script (≈73)
 
 **Category:** Programming & Tech → Software Development → Scripting / или Data → Data Processing → Excel (ДОПУЩЕНИЕ: выбрать в редакторе ближайшую)
@@ -67,7 +67,7 @@
 
 ## GIG 2 — Чистка и конвертация данных
 
-**Title:** I will clean, merge and convert messy CSV, excel or PDF tables with python  (≈74)
+**Title:** I will clean, merge and convert messy CSV, excel or PDF tables with python  (74)
 
 **Description:**
 > Messy exports, duplicate rows, broken dates, five files that should be one? I clean and convert your data with a repeatable Python pipeline, so you get not only a clean file but also proof of what was fixed.
@@ -114,7 +114,7 @@
 
 ## GIG 3 — Python-автоматизация (инженерная ниша)
 
-**Title:** I will write python scripts to automate files, reports and engineering data  (≈75)
+**Title:** I will write python scripts to automate files, reports and engineering data  (75)
 
 **Description:**
 > I'm an engineer (mechanics, electronics, robotics) who writes Python to kill repetitive work. Good fit if you need a reliable script, not a "hello world".
@@ -163,7 +163,7 @@
 
 ## GIG 4 — Технический перевод и оформление документов
 
-**Title:** I will translate and format technical documents between english and russian  (≈75)
+**Title:** I will translate and format technical documents between english and russian  (75)
 
 **Description:**
 > Manuals, datasheets, README files, product instructions, app/game UI strings — translated by an engineer who understands the subject, and delivered as a clean, properly formatted document.

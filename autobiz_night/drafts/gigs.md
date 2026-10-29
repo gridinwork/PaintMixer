@@ -13,7 +13,7 @@
 ## GIG 1 — Google Sheets / Excel
 
 **Title:** I will build google sheets and excel formulas, apps script automation, reports  (80 с «I will»)
-*Запасной вариант:* I will fix google sheets or excel formulas and automate them with apps script (≈73)
+*Запасной вариант:* I will fix google sheets or excel formulas and automate them with apps script (78)
 
 **Category:** Programming & Tech → Software Development → Scripting / или Data → Data Processing → Excel (ДОПУЩЕНИЕ: выбрать в редакторе ближайшую)
 
